@@ -1,0 +1,7 @@
+{
+    "receiver_email": "ashwini.gawade27@gmail.com",
+    "receiver_email": "laura@imbull.com",
+    "MessageBounceDescription": "bad_mailbox",
+    "event": "hard_bounce",
+    "sender_email": "contact.es@flipit.com"
+}

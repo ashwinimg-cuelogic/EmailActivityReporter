@@ -1,0 +1,6 @@
+{
+    "receiver_email": "herzee@casema.nl",
+    "MessageBounceDescription": "bad_mailbox",
+    "event": "hard_bounce",
+    "sender_email": "nieuws@kortingscode.nl"
+}
